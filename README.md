@@ -25,6 +25,7 @@
 
 - **Estudiante de Ingeniería Informática con mención en Hardware**
   - Universidad de Córdoba
+  - Vilnius University
   - 2020 - 2024
 
 ---
