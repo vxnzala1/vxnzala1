@@ -25,7 +25,7 @@
 
 - **Estudiante de Ingeniería Informática con mención en Hardware**
   - Universidad de Córdoba
-  - 2020 - 2023
+  - 2020 - 2024
 
 ---
 
